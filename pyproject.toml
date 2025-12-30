@@ -28,3 +28,6 @@ dev = [
 
 [project.scripts]
 rundeck-mcp = "rundeck_mcp.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rundeck_mcp"]
