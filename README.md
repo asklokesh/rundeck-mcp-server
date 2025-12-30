@@ -1,5 +1,7 @@
 # Rundeck MCP Server
 
+<!-- mcp-name: io.github.asklokesh/rundeck-mcp-server -->
+
 <div align="center">
 
 # Rundeck Mcp Server
